@@ -30,14 +30,14 @@ The following are the components used in the project:
 
 ## Introduction:
 
-    ```
-Vision is the most important part of human physiology as 83% of information human being gets from the environment is via sight. The 2011 statistics by the World Health Organization (WHO) estimates that there are 285 billion people in the world with visual impairment, 39 billion of which are blind and 246 with low vision.
+    
+``` Vision is the most important part of human physiology as 83% of information human being gets from the environment is via sight. The 2011 statistics by the World Health Organization (WHO) estimates that there are 285 billion people in the world with visual impairment, 39 billion of which are blind and 246 with low vision.
 Presently, blind people use a white stick as a tool for directing them when the move or walk.
 Here, we develop a tool which can serve as a blind stick being more efficient and helpful than the conventional one.
 This will assist the blind people during the walk and provides and alarm if any hurdle is detected within the set range. 
 
 
-    ```
+  
    
     
     
