@@ -2,7 +2,7 @@ This is a web development project for hacktoberfest made with HTML, CSS, JS and 
 Voyager website: NASA & SpaceX have successfully helped humanity establish a multi-planetary presence.<br>
 A space website that can be used as a template in future for space related topics.  
 
-<h2 align="center">A Glimpse of the Smart Blink Stick</h2>
+<h2 align="center">A Glimpse of the Smart Blind Stick</h2>
 
 <p align="center">
 <img src="C:\Users\jiben\Desktop\Smart_Blind_Stick\Blind Stick.jpeg">
