@@ -1,6 +1,5 @@
-This is a web development project for hacktoberfest made with HTML, CSS, JS and Python (flask).<br>
-Voyager website: NASA & SpaceX have successfully helped humanity establish a multi-planetary presence.<br>
-A space website that can be used as a template in future for space related topics.  
+This is project for physics mini project contest made with Arduino Board and Ultrasonic Sensors.<br>
+
 
 <h2 align="center">A Glimpse of the Smart Blind Stick</h2>
 
